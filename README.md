@@ -14,5 +14,5 @@ My personal projects and studies portfolio for machine learning and data science
 ![image](https://user-images.githubusercontent.com/75485471/111920915-7f33bf00-8a70-11eb-9309-5b96bf35aed6.png)
 
 
-# Contact :email:
-More information about me: [LinkedIn](https://www.linkedin.com/in/amokranetabti/)
+# Contact
+More information about me: [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva/)
