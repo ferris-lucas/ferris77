@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Lucas Ferreira portfolio
 
-You can use the [editor on GitHub](https://github.com/ferris77/my_portfolio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![author](https://img.shields.io/badge/author-lucasferreira-blue)](https://www.linkedin.com/in/lucas-ferreira-da-silva/) [![](https://img.shields.io/badge/python-3.5%2B-blue)](https://www.python.org/downloads/) [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) [![feedbacks welcome](https://img.shields.io/badge/feedbacks-welcome-brightgreen)](https://github.com/ferris77)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My personal projects and studies portfolio for machine learning and data science.
 
-### Markdown
+# Machine Learning Projects
+1. **[Diabetes Diagnosis Prediction](http://ferris77.pythonanywhere.com/):** Web app that allows users to obtain diagnosis predictions from some pre-defined parameters. [Code directory](https://github.com/ferris77/diabetes-ml-web-app).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/75485471/111920935-9672ac80-8a70-11eb-8334-5152168e188c.png)
 
-```markdown
-Syntax highlighted code block
+2. **[Project 2: Movie Sentiment Analysis](https://my-sentiment-analysis-web-app.herokuapp.com/):** Web app that allows users to predict the sentiment of a movie review. [Code directory](https://github.com/ferris77/sentiment-analysis-ml-web-app).
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/75485471/111920915-7f33bf00-8a70-11eb-9309-5b96bf35aed6.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ferris77/my_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact :email:
+More information about me: [LinkedIn](https://www.linkedin.com/in/amokranetabti/)
