@@ -39,7 +39,9 @@ This repository contains the files I created during a computer architecture cour
 * [Implement an assembler using Python](https://github.com/ferris77/nand2tetris/tree/main/python): Simple code in Python that reads a file with programming instructions and converts it to assembly.
 
 # Microcontrollers and embbedded devices
-* 
+Projects with FPGAs and Microcontrollers (Arduino and ARM STM32), using Verilog Hardware Description Language.
+* [Super Mario Song With FPGA Devlopment Board Buzzer](https://github.com/ferris77/embedded-devices/tree/main/FPGA_buzzer): Use a buzzer to play Super Mario Theme with Verilog HDL.
+* [Digital Clock with 4 7-Segment displays](https://github.com/ferris77/embedded-devices/tree/main/FPGA_digitalclock): Implement a digital clock using Verilog HDL.
 
 # Contact
 More information about me: [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva/)
