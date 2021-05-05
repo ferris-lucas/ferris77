@@ -7,6 +7,15 @@ My personal projects and studies portfolio for machine learning and data science
 # Machine Learning Projects
 1. **[Diabetes Diagnosis Prediction](http://ferris77.pythonanywhere.com/):** Web app that allows users to obtain diagnosis predictions from some pre-defined parameters. [Code directory](https://github.com/ferris77/diabetes-ml-web-app).
 2. **[Project 2: Movie Sentiment Analysis](https://my-sentiment-analysis-web-app.herokuapp.com/):** Web app that allows users to predict the sentiment of a movie review. [Code directory](https://github.com/ferris77/sentiment-analysis-ml-web-app).
+3. **Project 3: Plagiarism Detector:** Check for plagiarism in text files comparing its content with wikipedia data. [Code directory](https://github.com/ferris77/plagiarism-detector).
+
+# Pacman using Python
+  1. **Pacman game (in progress)**: Explore OO functionalities and capacity creating a Pacman game with Pygame library. [Code directory](https://github.com/ferris77/pacman)
+
+# IBM Watson APIs
+  1. [Sentiment Analysis of texts API](https://github.com/ferris77/ibm-watson/blob/main/sentiment_analysis_ibm_toneanalyser.ipynb)
+  2. [Speech to Text API - Make transcription of audio file](https://github.com/ferris77/ibm-watson/blob/main/audio_transcription_ibm_speechtotext.ipynb)
+  3. [Text to Speech API](https://github.com/ferris77/ibm-watson/blob/main/language_translation_ibm_watson.ipynb)
 
 # Study Notebooks
 This repository contains several notebooks I created or adapted during various activities in my Machine Learning Courses.
